@@ -1,0 +1,51 @@
+
+.Forms{
+    text-align: center;
+    background-color: white;
+    width: 500px;
+    height: 440px;
+    border-radius: 10px;
+    float: right;
+    margin-right: 70px;
+  
+}
+
+body{
+    background-color: lightsalmon;
+    
+
+}
+
+.Button{
+    background-color: green;
+    color: white;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin-top: 20px;
+    width: 300px;
+    height: 35px;
+    margin-top: 30px;
+    border-radius: 6px;
+    font-size: medium;
+    font-family: sans-serif, Courier, monospace, 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Geneva, Tahoma, sans-serif
+}
+
+.caixa{
+    width: 300px;
+    height: 35px;
+    margin-top: 30px;
+    border-radius: 6px;
+}
+
+h1{
+    color: white;
+    font;
+    font-style:inherit;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    font-size: smaller;
+}
